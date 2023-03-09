@@ -1,8 +1,6 @@
 import React from "react";
 import Navbar from "../../components/navbar/Navbar";
-import videoCouple from "../../assets/coupleVideo.mp4";
-import { Button } from "../home/Styled";
-import { BsFillPlayFill } from "react-icons/bs";
+import videoCouple from "/public/coupleVideo.mp4";
 
 export default function Video() {
   return (
